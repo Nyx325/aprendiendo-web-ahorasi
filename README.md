@@ -26,6 +26,10 @@ cd aprendiendo-web-ahorasi
 bun install
 ```
 
+Ahora asegurese de configurar las variables de entorno tanto
+para el client como el servidor, se muestra un ejemplo en
+`client/.env.example` y `server/.env.example` respectivamente
+
 2. Desplegar para desarrollo
 
 ```bash
